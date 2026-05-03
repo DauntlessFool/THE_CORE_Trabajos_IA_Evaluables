@@ -1,1 +1,6 @@
-# THE_CORE_Trabajos_IA_Evaluables
+# THE\_CORE\_Trabajos\_IA\_Evaluables
+
+Código Clases Inteligencia Artificial
+
+Miguel Diaz Chaoui
+
